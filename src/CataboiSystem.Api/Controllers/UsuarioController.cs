@@ -8,11 +8,13 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using CataboiSystem.Domain.Entities;
 using CataboiSystem.Infrastructure.Data;
+using Microsoft.AspNetCore.Authorization;
 
 namespace CataboiSystem.Api.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize]
     public class UsuarioController : ControllerBase
     {
         private readonly ApplicationDbContext _context;

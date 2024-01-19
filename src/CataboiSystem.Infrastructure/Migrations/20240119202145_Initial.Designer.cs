@@ -11,7 +11,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace CataboiSystem.Infrastructure.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20240119001448_Initial")]
+    [Migration("20240119202145_Initial")]
     partial class Initial
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -288,17 +288,9 @@ namespace CataboiSystem.Infrastructure.Migrations
                         .HasColumnType("int")
                         .HasColumnName("cliente_id");
 
-                    b.Property<string>("Email")
-                        .HasColumnType("longtext")
-                        .HasColumnName("email");
-
                     b.Property<string>("Nome")
                         .HasColumnType("longtext")
                         .HasColumnName("nome");
-
-                    b.Property<string>("Senha")
-                        .HasColumnType("longtext")
-                        .HasColumnName("senha");
 
                     b.HasKey("Idusu");
 

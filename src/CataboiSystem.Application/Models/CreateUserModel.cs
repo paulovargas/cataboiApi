@@ -3,10 +3,11 @@ using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Threading.Tasks;
+using CataboiSystem.Domain.Entities;
 
 namespace CataboiSystem.Application.Models
 {
-    public class CreateUserModel
+    public class CreateUserModel : Usuario
     {
         [Required(ErrorMessage = "User Name é obrigatório!")]
         public string? UserName { get; set; }

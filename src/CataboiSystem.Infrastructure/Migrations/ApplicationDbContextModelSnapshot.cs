@@ -286,17 +286,9 @@ namespace CataboiSystem.Infrastructure.Migrations
                         .HasColumnType("int")
                         .HasColumnName("cliente_id");
 
-                    b.Property<string>("Email")
-                        .HasColumnType("longtext")
-                        .HasColumnName("email");
-
                     b.Property<string>("Nome")
                         .HasColumnType("longtext")
                         .HasColumnName("nome");
-
-                    b.Property<string>("Senha")
-                        .HasColumnType("longtext")
-                        .HasColumnName("senha");
 
                     b.HasKey("Idusu");
 

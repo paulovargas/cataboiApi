@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CataboiSystem.Application/1.0.0": {
+        "dependencies": {
+          "CataboiSystem.Domain": "1.0.0"
+        },
+        "runtime": {
+          "CataboiSystem.Application.dll": {}
+        }
+      },
+      "CataboiSystem.Domain/1.0.0": {
+        "runtime": {
+          "CataboiSystem.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CataboiSystem.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CataboiSystem.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

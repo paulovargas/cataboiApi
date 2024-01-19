@@ -1,0 +1,17 @@
+/home/paulo/projetos/CATABOI/cataboiApi/src/CataboiSystem.Infrastructure/bin/Debug/net6.0/CataboiSystem.Infrastructure.deps.json
+/home/paulo/projetos/CATABOI/cataboiApi/src/CataboiSystem.Infrastructure/bin/Debug/net6.0/CataboiSystem.Infrastructure.runtimeconfig.json
+/home/paulo/projetos/CATABOI/cataboiApi/src/CataboiSystem.Infrastructure/bin/Debug/net6.0/CataboiSystem.Infrastructure.dll
+/home/paulo/projetos/CATABOI/cataboiApi/src/CataboiSystem.Infrastructure/bin/Debug/net6.0/CataboiSystem.Infrastructure.pdb
+/home/paulo/projetos/CATABOI/cataboiApi/src/CataboiSystem.Infrastructure/bin/Debug/net6.0/CataboiSystem.Domain.dll
+/home/paulo/projetos/CATABOI/cataboiApi/src/CataboiSystem.Infrastructure/bin/Debug/net6.0/CataboiSystem.Domain.pdb
+/home/paulo/projetos/CATABOI/cataboiApi/src/CataboiSystem.Infrastructure/obj/Debug/net6.0/CataboiSystem.Infrastructure.csproj.AssemblyReference.cache
+/home/paulo/projetos/CATABOI/cataboiApi/src/CataboiSystem.Infrastructure/obj/Debug/net6.0/CataboiSystem.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/paulo/projetos/CATABOI/cataboiApi/src/CataboiSystem.Infrastructure/obj/Debug/net6.0/CataboiSystem.Infrastructure.AssemblyInfoInputs.cache
+/home/paulo/projetos/CATABOI/cataboiApi/src/CataboiSystem.Infrastructure/obj/Debug/net6.0/CataboiSystem.Infrastructure.AssemblyInfo.cs
+/home/paulo/projetos/CATABOI/cataboiApi/src/CataboiSystem.Infrastructure/obj/Debug/net6.0/CataboiSystem.Infrastructure.csproj.CoreCompileInputs.cache
+/home/paulo/projetos/CATABOI/cataboiApi/src/CataboiSystem.Infrastructure/obj/Debug/net6.0/CataboiSystem.Infrastructure.csproj.CopyComplete
+/home/paulo/projetos/CATABOI/cataboiApi/src/CataboiSystem.Infrastructure/obj/Debug/net6.0/CataboiSystem.Infrastructure.dll
+/home/paulo/projetos/CATABOI/cataboiApi/src/CataboiSystem.Infrastructure/obj/Debug/net6.0/refint/CataboiSystem.Infrastructure.dll
+/home/paulo/projetos/CATABOI/cataboiApi/src/CataboiSystem.Infrastructure/obj/Debug/net6.0/CataboiSystem.Infrastructure.pdb
+/home/paulo/projetos/CATABOI/cataboiApi/src/CataboiSystem.Infrastructure/obj/Debug/net6.0/CataboiSystem.Infrastructure.genruntimeconfig.cache
+/home/paulo/projetos/CATABOI/cataboiApi/src/CataboiSystem.Infrastructure/obj/Debug/net6.0/ref/CataboiSystem.Infrastructure.dll

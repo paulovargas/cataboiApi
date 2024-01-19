@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1xg3OEHCRFsXxF2NuZEC0igSpR9WD8ztcbsfrRD6TyI=",
+  "Source": "CataboiSystem.Api",
+  "BasePath": "_content/CataboiSystem.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

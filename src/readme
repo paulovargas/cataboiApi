@@ -1,0 +1,29 @@
+dotnet new sln -n CataboiSystem
+
+dotnet new webapi -n CataboiSystem.Api -o src/CataboiSystem.Api
+
+dotnet new classlib -n CataboiSystem.Application -o src/CataboiSystem.Application
+dotnet new classlib -n CataboiSystem.Domain -o src/CataboiSystem.Domain
+dotnet new classlib -n CataboiSystem.Infrastructure -o src/CataboiSystem.Infrastructure
+dotnet new classlib -n CataboiSystem.Common -o src/CataboiSystem.Common
+
+dotnet sln add src/CataboiSystem.Api
+dotnet sln add src/CataboiSystem.Application
+dotnet sln add src/CataboiSystem.Domain
+dotnet sln add src/CataboiSystem.Infrastructure
+dotnet sln add src/CataboiSystem.Common
+
+dotnet add src/CataboiSystem.Application reference src/CataboiSystem.Domain
+dotnet add src/CataboiSystem.Infrastructure reference src/CataboiSystem.Domain
+dotnet add src/CataboiSystem.Api reference src/CataboiSystem.Application
+dotnet add src/CataboiSystem.Api reference src/CataboiSystem.Infrastructure
+dotnet add src/CataboiSystem.Api reference src/CataboiSystem.Domain
+
+dotnet aspnet-codegenerator controller -name AdminController -async -api -m Admin -dc ApplicationDbContext -outDir Controllers -namespace CataboiSystem.Api.Controllers
+dotnet aspnet-codegenerator controller -name AnimalController -async -api -m Animal -dc ApplicationDbContext -outDir Controllers -namespace CataboiSystem.Api.Controllers
+dotnet aspnet-codegenerator controller -name ClienteController -async -api -m Cliente -dc ApplicationDbContext -outDir Controllers -namespace CataboiSystem.Api.Controllers
+dotnet aspnet-codegenerator controller -name EventoController -async -api -m Evento -dc ApplicationDbContext -outDir Controllers -namespace CataboiSystem.Api.Controllers
+dotnet aspnet-codegenerator controller -name RebanhoController -async -api -m Rebanho -dc ApplicationDbContext -outDir Controllers -namespace CataboiSystem.Api.Controllers
+dotnet aspnet-codegenerator controller -name UsuarioController -async -api -m Usuario -dc ApplicationDbContext -outDir Controllers -namespace CataboiSystem.Api.Controllers
+
+dotnet aspnet-codegenerator controller -name AdminController -async -api -m CataboiSystem.Domain.Entities.Admin -dc ApplicationDbContext -outDir Controllers -namespace CataboiSystem.Api.Controllers

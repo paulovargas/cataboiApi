@@ -1,0 +1,12 @@
+/home/paulo/projetos/CATABOI/cataboiApi/src/CataboiSystem.Domain/bin/Debug/net6.0/CataboiSystem.Domain.deps.json
+/home/paulo/projetos/CATABOI/cataboiApi/src/CataboiSystem.Domain/bin/Debug/net6.0/CataboiSystem.Domain.dll
+/home/paulo/projetos/CATABOI/cataboiApi/src/CataboiSystem.Domain/bin/Debug/net6.0/CataboiSystem.Domain.pdb
+/home/paulo/projetos/CATABOI/cataboiApi/src/CataboiSystem.Domain/obj/Debug/net6.0/CataboiSystem.Domain.csproj.AssemblyReference.cache
+/home/paulo/projetos/CATABOI/cataboiApi/src/CataboiSystem.Domain/obj/Debug/net6.0/CataboiSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/paulo/projetos/CATABOI/cataboiApi/src/CataboiSystem.Domain/obj/Debug/net6.0/CataboiSystem.Domain.AssemblyInfoInputs.cache
+/home/paulo/projetos/CATABOI/cataboiApi/src/CataboiSystem.Domain/obj/Debug/net6.0/CataboiSystem.Domain.AssemblyInfo.cs
+/home/paulo/projetos/CATABOI/cataboiApi/src/CataboiSystem.Domain/obj/Debug/net6.0/CataboiSystem.Domain.csproj.CoreCompileInputs.cache
+/home/paulo/projetos/CATABOI/cataboiApi/src/CataboiSystem.Domain/obj/Debug/net6.0/CataboiSystem.Domain.dll
+/home/paulo/projetos/CATABOI/cataboiApi/src/CataboiSystem.Domain/obj/Debug/net6.0/refint/CataboiSystem.Domain.dll
+/home/paulo/projetos/CATABOI/cataboiApi/src/CataboiSystem.Domain/obj/Debug/net6.0/CataboiSystem.Domain.pdb
+/home/paulo/projetos/CATABOI/cataboiApi/src/CataboiSystem.Domain/obj/Debug/net6.0/ref/CataboiSystem.Domain.dll

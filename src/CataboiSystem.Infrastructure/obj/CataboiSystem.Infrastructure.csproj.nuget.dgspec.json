@@ -1,0 +1,144 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/paulo/projetos/CATABOI/cataboiApi/src/CataboiSystem.Infrastructure/CataboiSystem.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "/home/paulo/projetos/CATABOI/cataboiApi/src/CataboiSystem.Domain/CataboiSystem.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/paulo/projetos/CATABOI/cataboiApi/src/CataboiSystem.Domain/CataboiSystem.Domain.csproj",
+        "projectName": "CataboiSystem.Domain",
+        "projectPath": "/home/paulo/projetos/CATABOI/cataboiApi/src/CataboiSystem.Domain/CataboiSystem.Domain.csproj",
+        "packagesPath": "/home/paulo/.nuget/packages/",
+        "outputPath": "/home/paulo/projetos/CATABOI/cataboiApi/src/CataboiSystem.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/paulo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.418/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/paulo/projetos/CATABOI/cataboiApi/src/CataboiSystem.Infrastructure/CataboiSystem.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/paulo/projetos/CATABOI/cataboiApi/src/CataboiSystem.Infrastructure/CataboiSystem.Infrastructure.csproj",
+        "projectName": "CataboiSystem.Infrastructure",
+        "projectPath": "/home/paulo/projetos/CATABOI/cataboiApi/src/CataboiSystem.Infrastructure/CataboiSystem.Infrastructure.csproj",
+        "packagesPath": "/home/paulo/.nuget/packages/",
+        "outputPath": "/home/paulo/projetos/CATABOI/cataboiApi/src/CataboiSystem.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/paulo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/paulo/projetos/CATABOI/cataboiApi/src/CataboiSystem.Domain/CataboiSystem.Domain.csproj": {
+                "projectPath": "/home/paulo/projetos/CATABOI/cataboiApi/src/CataboiSystem.Domain/CataboiSystem.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.26, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.26, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[6.0.26, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.418/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

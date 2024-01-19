@@ -1,0 +1,35 @@
+vou descrever brevemente a função de cada projeto na sua solução:
+
+1. CataboiSystem.Api:
+
+    Controllers: Contém os controladores da sua API, incluindo AuthController para lidar com autenticação e autorização.
+    Program.cs e Startup.cs: Configuração e inicialização da aplicação.
+    Outras pastas: Organização dos componentes da API.
+
+2. CataboiSystem.Application:
+
+    Auth: Contém a lógica de aplicação relacionada à autenticação.
+    Models: Classes de modelos que podem ser usadas em toda a aplicação.
+    Outras pastas: Lógica de aplicação para outras funcionalidades do sistema.
+
+3. CataboiSystem.Common:
+
+    Models: Classes de modelos comuns que podem ser compartilhadas em vários projetos.
+
+4. CataboiSystem.Domain:
+
+    Entities: Definições de entidades que representam os objetos de domínio do seu sistema.
+
+5. CataboiSystem.Infrastructure:
+
+    Data: Configuração do contexto do Entity Framework e outras configurações relacionadas a dados.
+
+
+A organização proposta segue uma abordagem limpa e escalonável, separando as responsabilidades em camadas específicas. 
+A camada de API cuida da exposição e roteamento HTTP, a camada de Application lida com a lógica de aplicação, a Domain define as entidades de domínio, e a camada de Infrastructure gerencia aspectos relacionados a dados e persistência.
+
+A pasta Common é usada para modelos que podem ser compartilhados em várias partes da aplicação. Esta é uma abordagem comum para evitar duplicação de código quando modelos são usados em diferentes contextos.
+
+
+
+https://marcoswoc.net/autenticacao-e-autorizacao-jwt-em-uma-api-net-6-0/

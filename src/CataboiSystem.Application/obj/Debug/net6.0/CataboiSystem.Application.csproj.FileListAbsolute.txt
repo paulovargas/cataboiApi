@@ -1,0 +1,15 @@
+/home/paulo/projetos/CATABOI/cataboiApi/src/CataboiSystem.Application/bin/Debug/net6.0/CataboiSystem.Application.deps.json
+/home/paulo/projetos/CATABOI/cataboiApi/src/CataboiSystem.Application/bin/Debug/net6.0/CataboiSystem.Application.dll
+/home/paulo/projetos/CATABOI/cataboiApi/src/CataboiSystem.Application/bin/Debug/net6.0/CataboiSystem.Application.pdb
+/home/paulo/projetos/CATABOI/cataboiApi/src/CataboiSystem.Application/bin/Debug/net6.0/CataboiSystem.Domain.dll
+/home/paulo/projetos/CATABOI/cataboiApi/src/CataboiSystem.Application/bin/Debug/net6.0/CataboiSystem.Domain.pdb
+/home/paulo/projetos/CATABOI/cataboiApi/src/CataboiSystem.Application/obj/Debug/net6.0/CataboiSystem.Application.csproj.AssemblyReference.cache
+/home/paulo/projetos/CATABOI/cataboiApi/src/CataboiSystem.Application/obj/Debug/net6.0/CataboiSystem.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/paulo/projetos/CATABOI/cataboiApi/src/CataboiSystem.Application/obj/Debug/net6.0/CataboiSystem.Application.AssemblyInfoInputs.cache
+/home/paulo/projetos/CATABOI/cataboiApi/src/CataboiSystem.Application/obj/Debug/net6.0/CataboiSystem.Application.AssemblyInfo.cs
+/home/paulo/projetos/CATABOI/cataboiApi/src/CataboiSystem.Application/obj/Debug/net6.0/CataboiSystem.Application.csproj.CoreCompileInputs.cache
+/home/paulo/projetos/CATABOI/cataboiApi/src/CataboiSystem.Application/obj/Debug/net6.0/CataboiSystem.Application.csproj.CopyComplete
+/home/paulo/projetos/CATABOI/cataboiApi/src/CataboiSystem.Application/obj/Debug/net6.0/CataboiSystem.Application.dll
+/home/paulo/projetos/CATABOI/cataboiApi/src/CataboiSystem.Application/obj/Debug/net6.0/refint/CataboiSystem.Application.dll
+/home/paulo/projetos/CATABOI/cataboiApi/src/CataboiSystem.Application/obj/Debug/net6.0/CataboiSystem.Application.pdb
+/home/paulo/projetos/CATABOI/cataboiApi/src/CataboiSystem.Application/obj/Debug/net6.0/ref/CataboiSystem.Application.dll
